@@ -1,4 +1,4 @@
-⚠️ Version du module: 1.0
+⚠️ Version du module: 1.1
 
 ⭐️• Introduction :>
 
