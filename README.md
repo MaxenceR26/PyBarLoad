@@ -6,7 +6,7 @@ Le module PyBarLoad est un module, qui permet de faire des barres de chargements
 
 ⭐️• Authors :>
 
-Katsu'hi, Prasax
+Katsu'hi
 
 
 
